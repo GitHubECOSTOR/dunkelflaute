@@ -1,0 +1,13 @@
+NOTICE
+
+This software includes contributions developed by ECO STOR GmbH.
+
+Copyright (c) 2024 ECO STOR GmbH. All rights reserved.
+
+This product includes software licensed under the MIT License from the PyPSA Developers. The PyPSA library is licensed under the MIT License, and all conditions of the MIT License apply to the portions of the software that depend on or interact with PyPSA.
+
+In accordance with the GNU General Public License Version 3, any derivative works or redistributions of this software must acknowledge the original author(s) and maintain the open-source nature of this software.
+
+Acknowledgment:
+
+"This software includes work originally developed by ECO STOR GmbH."
