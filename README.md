@@ -1,7 +1,7 @@
 # dunkelflaute
 Optimization model behind https://dashboards.eco-stor.de/dunkelflaute  
 
-![Screenshot of the Dunkelflaute Dashboard](.github\images\dunkelflaute_dashboard_screenshot.png)
+![Screenshot of the Dunkelflaute Dashboard](dunkelflaute_dashboard_screenshot.png)
 
 
 
