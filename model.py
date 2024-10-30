@@ -25,7 +25,7 @@ class Model:
         Args:
             df_profiles (ps.DataFrame): DataFrame with renewable profiles (normalized to installed power, [0,1]) and load profile [0,1] normalized to annual sum.
                                         The DateFrame must contain the columns: "pv_profile", "wind_on_profile", wind_off_profile", "biomass_profile",
-                                        "hydro_profile" and "load_profile"
+                                        "hydro_profile" and "load_profile". The index of the DataFrame must be a DatetimeIndex and will represent the model horizon. 
             load (float): sum of electrical load in [MWh/a]
             pv_p_inst (float): installed power pv [MW]
             wind_on_p_inst (float): installed power wind onshore [MW]
